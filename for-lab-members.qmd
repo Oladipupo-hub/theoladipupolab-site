@@ -1,8 +1,20 @@
-# For Lab Members
+---
+title: "For Lab Members"
+format: html
+---
 
-** Protocols **
+## Protocols
+All lab protocols are maintained and regularly updated in our shared Google Drive folder. Please ensure you are referring to the latest versions before starting any experiment.
 
+👉 [Access Lab Protocols (Google Drive Link)](https://your-google-drive-link-here)
 
-** Resources **
-Must Read within the first Month – Google Link
-	https://huttenhower.sph.harvard.edu/tools/
+## Resources
+### Must Read within the First Month
+All new lab members are required to review these essential resources during their first month in the lab. This material is foundational for understanding our workflows, tools, and research context.
+
+👉 [Must Read – Resource Link](https://your-google-drive-link-here)
+
+---
+
+Please ensure you bookmark these links and revisit them periodically for updates.
+
