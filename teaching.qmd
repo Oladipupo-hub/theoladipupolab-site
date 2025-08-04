@@ -1,6 +1,6 @@
 # Teaching
 
-## Spring: Of Meta-analysis in Insect Science (ENTM 7890)
+## Spring: Of Meta-analysis in Science (ENTM 7890)
 
 <p align="center">
   <img src="assets/images/meta-analysis-icon.png" width="100px">
@@ -9,7 +9,7 @@
 Narrative reviews gather evidence but lack empirical synthesis. Meta-analysis quantitatively combines effect sizes from multiple studies addressing similar hypotheses, revealing general patterns objectively. Despite limitations (file drawer problem, publication quality variations), meta-analysis powerfully identifies patterns in data-rich disciplines like agriculture, ecology, psychology, medicine, and education where large, under-analyzed datasets abound.
 
 ## Publications from class
-1.	Senanayaka Mudiyanselage, P., Lindsey, L., **Oladipupo, S.O.** , 2025. Does Growing Latitude Influence Soybean Seed Critical Amino Acid Content? A Meta-Analysis. Agric. Environ. Lett
+1.	<span style="text-decoration: underline;">Senanayaka Mudiyanselage, P.</span>, Lindsey, L., **Oladipupo, S.O.** , 2025. _Does Growing Latitude Influence Soybean Seed Critical Amino Acid Content? A Meta-Analysis_. Agric. Environ. Lett
 
 _underlined_ = Student in class
 

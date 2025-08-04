@@ -38,3 +38,6 @@ strong.your-name {
     font-weight: bold;
     color: #2E3A87;  /* Optional: dark blue color */
 }
+.underline {
+  text-decoration: underline;
+}
