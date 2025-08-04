@@ -20,6 +20,23 @@ website:
         href: for-lab-members.qmd
       - text: Contact
         href: contact.qmd
+        
+      right:
+      - icon: graduation-cap
+        href: https://scholar.google.com/citations?user=wjO-QiMAAAAJ&hl=en
+        text: "Google Scholar"
+      - icon: X
+        href: https://x.com/seun_PhD
+         text: "Follow us on Twitter"
+      - icon: laptop
+        href: https://entomology.osu.edu/our-people/seun-oladipupo
+        text: "PI Page"
+      - icon: envelope
+        href: mailto:Oladipupo.7@osu.edu
+        text: "Email Me"
+      - icon: github
+        href: https://github.com/Oladipupo-hub
+        text: "GitHub"
 format:
   html:
     theme: cosmo
