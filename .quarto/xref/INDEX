@@ -1,0 +1,26 @@
+{
+  "contact.qmd": {
+    "contact.html": "786c6a2f"
+  },
+  "for-lab-members.qmd": {
+    "for-lab-members.html": "3670b554"
+  },
+  "index.qmd": {
+    "index.html": "52a72cd9"
+  },
+  "publications.qmd": {
+    "publications.html": "d003f8c3"
+  },
+  "research.qmd": {
+    "research.html": "43b7dc04"
+  },
+  "teaching.qmd": {
+    "teaching.html": "63a33876"
+  },
+  "team.qmd": {
+    "team.html": "e5f1e9c4"
+  },
+  "theoladipupolab.qmd": {
+    "theoladipupolab.html": "972d23e6"
+  }
+}
