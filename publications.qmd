@@ -17,25 +17,25 @@ format:
 
 ## 2023
 
-<span class="pub-number">15.</span> **Oladipupo, S.O.**, Laidoudi, Y., Beckmann, J.F., Hu, X.P., Appel, A.G., 2023. The prevalence of *Wolbachia* in multiple cockroach species and its implication for urban insect management. _J. Econ. Entomol._ xx, 1–10. *featured in [Entomology Today](https://entomologytoday.org/2023/06/15/wolbachia-cockroaches-new-paradigm-urban-pest-management/)*
+<span class="pub-number">15.</span> **Oladipupo, S.O.**, Laidoudi, Y., Beckmann, J.F., Hu, X.P., Appel, A.G., 2023. The prevalence of *Wolbachia* in multiple cockroach species and its implication for urban insect management. _J. Econ. Entomol._ xx, 1–10.**Featured in** *[Entomology Today](https://entomologytoday.org/2023/06/15/wolbachia-cockroaches-new-paradigm-urban-pest-management/)*
 
 <span class="pub-number">14.</span> **Oladipupo, S.O.**, <sup>#</sup>Carroll, J.D., Beckmann, J.F., 2023. Convergent _Aedes_ and _Drosophila_ CidB interactomes suggest cytoplasmic incompatibility targets are conserved. _Insect Biochem. Mol. Bio._ 155, 1–8
 
 ## 2022
 
-<span class="pub-number">13.</span> **Oladipupo, S.O.**, Hu, X.P., Appel, A.G., 2022. Essential oils in urban insect management – a review. _J. Econ. Entomol._ 115, 1375–1408. *featured in [Entomology Today](https://entomologytoday.org/2022/07/14/essential-oils-untapped-resource-managing-urban-insect-pests/)*
+<span class="pub-number">13.</span> **Oladipupo, S.O.**, Hu, X.P., Appel, A.G., 2022. Essential oils in urban insect management – a review. _J. Econ. Entomol._ 115, 1375–1408. **Featured in** *[Entomology Today](https://entomologytoday.org/2022/07/14/essential-oils-untapped-resource-managing-urban-insect-pests/)*
 
 <span class="pub-number">12.</span> Eckert, J.P., **Oladipupo, S.O.**, et al., 2022. Which trap is best? Alternatives to human landing catches for malaria vector surveillance: a meta-analysis. _Malar. J._ 21, 378
 
 <span class="pub-number">11.</span> **Oladipupo, S.O.**, Wilson, A.E., Hu, X.P., Appel, A.G., 2022. Why do insects close their spiracles? A meta-analytic evaluation of the hypotheses of discontinuous gas exchange in insects. _Insects_ 13, 117–121
 
-<span class="pub-number">10.</span> DadeMatthews, O., Agostinelli, P., Neal, F., **Oladipupo, S.O.**, et al., 2022.** Systematic review and meta-analyses on the effects of whole-body vibration on bone health. _Complimentary Ther. Med._ 65, 1–15
+<span class="pub-number">10.</span> DadeMatthews, O., Agostinelli, P., Neal, F., **Oladipupo, S.O.**, et al., 2022. Systematic review and meta-analyses on the effects of whole-body vibration on bone health. _Complimentary Ther. Med._ 65, 1–15
 
 ## 2021 and Earlier
 
 <span class="pub-number">9.</span> Beckmann, J.F., Dormitorio, T.V., **Oladipupo, S.O.**, et al., 2021. *Heterakis gallinarum* and *Histomonas meleagridis* DNA persists in chicken houses years after depopulation. _Vet. Parasitol._ 109536
 
-<span class="pub-number">8.</span> Gbaye, O.A., **Oladipupo, S.O.**, Oyeniyi, E.A., Oladipupo, T.H., 2021. Impact of sublethal doses of *Piper guineense* on *Callosobruchus maculatus* reared on cowpea varieties. _J. Asia Pac. Entomol._ 24, 529–535
+<span class="pub-number">8.</span> Gbaye, O.A., **Oladipupo, S.O.**, Oyeniyi, E.A., <sup>#</sup>Oladipupo, T.H., 2021. Impact of sublethal doses of *Piper guineense* on *Callosobruchus maculatus* reared on cowpea varieties. _J. Asia Pac. Entomol._ 24, 529–535
 
 <span class="pub-number">7.</span> **Oladipupo, S.O.**, Hu, X.P., Appel, A.G., 2020. Essential oil components in polymer gel modify reproduction of *Blattella germanica*. _J. Econ. Entomol._ 113, 2436–2447
 
