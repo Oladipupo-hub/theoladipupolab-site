@@ -15,7 +15,7 @@ format:
       <strong>Seun Oladipupo</strong><br>
       <em>Assistant Professor, Urban Entomology</em><br>
       <a href="mailto:Oladipupo.7@osu.edu">Oladipupo.7@osu.edu</a> |
-      <a href="#">CV (link)</a>
+      <a href="#">[CV](https://drive.google.com/file/d/1VLsfViqfZGSVD9h-mnMmg5xrhFpoupQj/view?usp=drive_link)</a>
     </td>
   </tr>
 </table>

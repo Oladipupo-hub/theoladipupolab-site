@@ -6,9 +6,9 @@
   <img src="assets/images/meta-analysis-icon.png" width="100px">
 </p>
 
-Narrative reviews gather evidence but lack empirical synthesis. Conversely, meta-analysis quantitatively combines effect sizes from multiple studies addressing similar hypotheses, revealing general patterns objectively. Despite limitations (file drawer problem, publication quality variations), meta-analysis powerfully identifies patterns in data-rich disciplines like agriculture, ecology, psychology, medicine, and education where large, under-analyzed datasets abound.
+Narrative reviews gather evidence but lack empirical synthesis. Conversely, meta-analysis quantitatively combines effect sizes from multiple studies addressing similar hypotheses, revealing general patterns objectively. Despite limitations (file drawer problem, publication quality variations), meta-analysis powerfully identifies patterns in data-rich disciplines like agriculture, ecology, psychology, medicine, and education where large, under-analyzed datasets abound
 
-Our class teaches students in agricultural and environmental sciences to master meta-analysis techniques for extracting meaningful insights from scattered research findings.
+Our class teaches students in agricultural and environmental sciences to master meta-analysis techniques for extracting meaningful insights from scattered research findings
 
 ## Publications from class
 1.	<span style="text-decoration: underline;">Senanayaka Mudiyanselage, P.</span>, Lindsey, L., **Oladipupo, S.O.**, 2025. _Does growing latitude influence soybean seed critical amino acid content? A meta-analysis_. Agric. Environ. Lett.
@@ -24,4 +24,4 @@ _underlined_ = Student in class
   <img src="assets/images/insect-icon.png" width="100px">
 </p>
 
-Acquaint construction engineers with the incredible biological diversity found on Planet Earth using insects as examples and biological models. Management of buildings against attacking and inhabiting insects, animals, and fungi will be covered. 
+Acquaint construction engineers with the incredible biological diversity found on Planet Earth using insects as examples and biological models. Management of buildings against attacking and inhabiting insects, animals, and fungi will be covered 
