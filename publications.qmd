@@ -49,7 +49,7 @@ format:
 
 <span class="pub-number">2.</span> Ajayi, O.E., **Oladipupo, S.O.**, Ojo, T.B., 2018. Fumigant toxicity of clove and lemongrass oils on *Tribolium castaneum*. _J. J. Bio. Sci._ 11, 571–575. *student mentee*
 
-<span class="pub-number">1.</span> Ajayi, O.E., Oladipupo, S.O., Jegede, O.J., 2018. Influence of plant extracts on activity of *Callosobruchus chinensis*. _Med. Plant Res._ 8, 60–73
+<span class="pub-number">1.</span> Ajayi, O.E., **Oladipupo, S.O.**, Jegede, O.J., 2018. Influence of plant extracts on activity of *Callosobruchus chinensis*. _Med. Plant Res._ 8, 60–73
 
 ---
 

@@ -7,7 +7,7 @@ format:
 
 ![Urban Entolomogy](assets/images/lab-logo.png)
 
-We are broadly interested in developing sustainable urban pest management solutions through interdisciplinary research. Our lab uses diverse approaches – biotechnology, biochemistry, and bioinformatics – to understand host-microbe interactions and the functional roles of microbiomes in urban insect pests. Additionally, we integrate socioeconomic research on pest prevalence to create comprehensive, eco-friendly management strategies.
+We are broadly interested in developing sustainable urban pest management solutions through interdisciplinary research. Our lab uses diverse approaches – biotechnology, biochemistry, and bioinformatics – to understand host-microbe interactions and the functional roles of microbiomes in urban insect pests. Additionally, we integrate socioeconomic research on pest prevalence to create comprehensive, eco-friendly management strategies
 
 ## Some areas of focus are:
 - Investigating socioeconomic drivers of urban pest prevalence
@@ -17,22 +17,22 @@ We are broadly interested in developing sustainable urban pest management soluti
 
 ## The Oladipupo Lab News
 
-- **August x, 2025**: Our paper, _Deubiquitylases and Nucleases in Bacterial Symbiont-induced Cytoplasmic Incompatibility_, got accepted in [Biochemical Society Transactions](https://portlandpress.com/biochemsoctrans).
-- **July 24, 2025**: Manuscript from Meta-Analysis Class by Prabath Mudiyanselage, _Does Growing Latitude Influence Soybean Seed Critical Amino Acid Content? A Meta-Analysis_ was accepted in [Agricultural and Environmental Letters](https://acsess.onlinelibrary.wiley.com/journal/24719625).
-- Our featured story, _Don’t let bed bugs crash your vacation_, was the number one headline for Thursday, July 24, 2025. [Read more on the CFAES page](https://cfaes.osu.edu/news/articles/don%e2%80%99t-let-bed-bugs-crash-your-vacation-cfaes-tackles-the-threat-in-ohio?category=Headline%20news&utm_source=sfmc&utm_medium=email&utm_campaign=omc_faculty-staff-newsletter_fy26_oncampus-20250724&sfmc_key=0032E00002tKwznQAC).
-- **June 02, 2025**: Undergraduates Nina Brown and Ashely Hamby join the lab to work on [Mapping Inequities Seed Grant] (https://ugresearch.osu.edu/research-postings/mapping-inequities-data-driven-approach-understanding-and-combating-bed-bug).
+- **August x, 2025**: Our paper, _Deubiquitylases and nucleases in bacterial symbiont-induced cytoplasmic incompatibility_, got accepted in [Biochemical Society Transactions](https://portlandpress.com/biochemsoctrans)
+- **July 24, 2025**: Manuscript from Meta-Analysis Class by Prabath Mudiyanselage, _Does growing latitude influence soybean seed critical amino acid content? A meta-analysis_ was accepted in [Agricultural and Environmental Letters](https://acsess.onlinelibrary.wiley.com/journal/24719625)
+- Our featured story, _Don’t let bed bugs crash your vacation_, was the number one headline for Thursday, July 24, 2025. [Read more on the CFAES page](https://cfaes.osu.edu/news/articles/don%e2%80%99t-let-bed-bugs-crash-your-vacation-cfaes-tackles-the-threat-in-ohio?category=Headline%20news&utm_source=sfmc&utm_medium=email&utm_campaign=omc_faculty-staff-newsletter_fy26_oncampus-20250724&sfmc_key=0032E00002tKwznQAC)
+- **June 02, 2025**: Undergraduates, Nina Brown and Ashely Hamby, join the lab to work on [Mapping Inequities Seed Grant](https://ugresearch.osu.edu/research-postings/mapping-inequities-data-driven-approach-understanding-and-combating-bed-bug)
 - **May 30, 2025**: Visiting Scholar, Damilola Gbore, joins Cambridge University. Best wishes, Damilola!
-- **May 2, 2025**: _Mapping Inequities Seed Grant_ Awarded.
-- **April 17, 2025**: Incoming graduate student, **Abdulafeez Hamzat**, awarded a University Fellowship to support his Master's work.
-- **March 12, 2025**: Seun gave a Wooster Science Café Talk titled [_The Science of the Unseen_](https://www.woostersciencecafe.org/talks/the-science-of-urban-ecology-and-pest-management).
+- **May 2, 2025**: _Mapping Inequities Seed Grant_ Awarded. Funded by **Kirwan Institute!**
+- **April 17, 2025**: Incoming graduate student, **Abdulafeez Hamzat**, awarded a University Fellowship to support his Master's research
+- **March 12, 2025**: **Seun** gave a Wooster Science Café calk titled [_The Science of the Unseen_](https://www.woostersciencecafe.org/talks/the-science-of-urban-ecology-and-pest-management).
 - **March 10, 2025**: Our collaborative work on [_Origins of Cin_](https://www.biorxiv.org/content/10.1101/2025.03.04.641471v1.full) is available on **BioRxiv**
-- **March 06, 2025**: Seun Cockroach Control at [Structural and Vertebrate Pest Webinar](https://pested.osu.edu/events/structural-and-vertebrate-pests-webinar-march-6-2025).
-- **January 06, 2025**: Visiting Scholar, **Damilola Gbore**, joins our lab.
-- **August 15, 2024**: Day 1: The Oladipupo Lab door opened at The Ohio State University. 
+- **March 06, 2025**: **Seun** presented on cockroach control at [Structural and Vertebrate Pest Webinar](https://pested.osu.edu/events/structural-and-vertebrate-pests-webinar-march-6-2025)
+- **January 06, 2025**: Visiting scholar, **Damilola Gbore**, joins our lab
+- **August 15, 2024**: The Oladipupo Lab door opened at [The Ohio State University](https://www.osu.edu/)
 
 ## Other Major Media
-- The bed bug threat, [Ohioline](https://ohioline.osu.edu/factsheet/ent-0103).
-- How to (wisely! safely!) pick out free furniture off the curb, [The Washington Post](https://www.washingtonpost.com/home/2025/05/20/how-to-get-furniture-off-the-curb/).
-- _Wolbachia_ in Cockroaches: A new paradigm for urban pest management? [Entomology Today](https://entomologytoday.org/2023/06/15/wolbachia-cockroaches-new-paradigm-urban-pest-management/).
-- Essential oils: an untapped resource for managing urban insect pests, [Entomology Today](https://entomologytoday.org/2022/07/14/essential-oils-untapped-resource-managing-urban-insect-pests/).
-- Killing cockroaches with pesticides is only making the species stronger, [Entomology Today](https://www.nationalgeographic.com/animals/article/pesticides-are-making-german-cockroaches-stronger/).
+- The bed bug threat, [Ohioline](https://ohioline.osu.edu/factsheet/ent-0103)
+- How to (wisely! safely!) pick out free furniture off the curb, [The Washington Post](https://www.washingtonpost.com/home/2025/05/20/how-to-get-furniture-off-the-curb/)
+- _Wolbachia_ in cockroaches: a new paradigm for urban pest management? [Entomology Today](https://entomologytoday.org/2023/06/15/wolbachia-cockroaches-new-paradigm-urban-pest-management/)
+- Essential oils: an untapped resource for managing urban insect pests, [Entomology Today](https://entomologytoday.org/2022/07/14/essential-oils-untapped-resource-managing-urban-insect-pests/)
+- Killing cockroaches with pesticides is only making the species stronger, [National Geographic](https://www.nationalgeographic.com/animals/article/pesticides-are-making-german-cockroaches-stronger/)

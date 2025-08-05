@@ -61,7 +61,7 @@ format:
   <tr>
     <td><img src="assets/images/bedbug-icon.png" width="100px"></td>
     <td>
-      <strong>Ashely Blah</strong><br>
+      <strong>Ashely Hamby</strong><br>
       <em>Undergraduate student, Entomology</em><br>
       <a href="mailto:hamby.52@buckeyemail.osu.edu">hamby.52@buckeyemail.osu.edu</a>
     </td>
