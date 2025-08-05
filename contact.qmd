@@ -3,7 +3,7 @@ title: "Join Our Lab"
 format: html
 ---
 
-The Oladipupo Lab is a small group of smart people all dedicated to a single thing – creating sustainable tools to address urban insect problems. We want to make products. Products that improve the quality of human life. We prioritize simplicity because simplicity is key. Importantly, simple is fast! Whether you are an undergraduate, prospective graduate student, postdoc or collaborator, if our research resonates with you, we would love to hear from you.
+The Oladipupo Lab is a small group of smart people all dedicated to a single thing – creating sustainable tools to address urban insect problems. We want to make products. Products that improve the quality of human life. We prioritize simplicity because simplicity is key. Importantly, simple is fast! Whether you are an undergraduate, prospective graduate student, postdoc or collaborator, if our research resonates with you, we would love to hear from you
 
 
 ## Interested in Joining?
@@ -12,7 +12,7 @@ If you are interested in joining our team, please email **Seun** with:
 
 - A short CV
 - A brief paragraph on why our research excites you
-- (For graduate applicants) The degree and program you’re considering
+- For graduate applicants, the degree and program you are considering
 
 ## Important for Prospective Graduate Students
 
