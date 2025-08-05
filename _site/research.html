@@ -167,8 +167,8 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Investigating socioeconomic drivers of urban pest prevalence</li>
 <li>Understanding microbiome influence on urban pest life history traits</li>
-<li>Developing sustainable pest control strategies</li>
 <li>Creating translational tools for real-world applications</li>
+<li>Developing sustainable pest control strategies</li>
 </ul>
 
 
@@ -247,7 +247,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/Oladipupo-hub\.github\.io\/theoladipupolab-site\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
