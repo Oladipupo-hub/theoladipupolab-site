@@ -1,5 +1,5 @@
 ---
-title: "# The Oladipupo Lab"
+title: "The Oladipupo Lab"
 format:
   html:
     css: assets/css/styles.css
