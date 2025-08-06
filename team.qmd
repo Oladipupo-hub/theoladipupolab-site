@@ -21,8 +21,6 @@ format:
   </tr>
 </table>
 
----
-
 # Students
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
