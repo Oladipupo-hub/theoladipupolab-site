@@ -25,40 +25,40 @@ format:
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
 
-  <div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
-    <img src="assets/images/amponsah-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
-    <div>
-      <strong>Grace Amponsah</strong><br>
-      <em>PhD student, ESGP</em><br>
-      <a href="mailto:amponsah.37@buckeyemail.osu.edu">amponsah.37@buckeyemail.osu.edu</a>
-    </div>
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+  <img src="assets/images/amponsah-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
+  <div>
+    <strong>Grace Amponsah</strong><br>
+    <em>PhD student, ESGP</em><br>
+    <a href="mailto:amponsah.37@buckeyemail.osu.edu">amponsah.37@buckeyemail.osu.edu</a>
   </div>
+</div>
 
-  <div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
-    <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
-    <div>
-      <strong>Abdulafees Hamzat</strong><br>
-      <em>MS student, Entomology</em><br>
-      <a href="mailto:hamzat.6@buckeyemail.osu.edu">hamzat.6@buckeyemail.osu.edu</a>
-    </div>
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+  <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
+  <div>
+    <strong>Abdulafees Hamzat</strong><br>
+    <em>MS student, Entomology</em><br>
+    <a href="mailto:hamzat.6@buckeyemail.osu.edu">hamzat.6@buckeyemail.osu.edu</a>
   </div>
+</div>
 
-  <div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
-    <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
-    <div>
-      <strong>Nina Brown</strong><br>
-      <em>Undergraduate student, Public Health</em><br>
-      <a href="mailto:brown.8698@buckeyemail.osu.edu">brown.8698@buckeyemail.osu.edu</a>
-    </div>
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+  <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
+  <div>
+    <strong>Nina Brown</strong><br>
+    <em>Undergraduate student, Public Health</em><br>
+    <a href="mailto:brown.8698@buckeyemail.osu.edu">brown.8698@buckeyemail.osu.edu</a>
   </div>
+</div>
 
-  <div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
-    <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
-    <div>
-      <strong>Ashely Hamby</strong><br>
-      <em>Undergraduate student, Entomology</em><br>
-      <a href="mailto:hamby.52@buckeyemail.osu.edu">hamby.52@buckeyemail.osu.edu</a>
-    </div>
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+  <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
+  <div>
+    <strong>Ashely Hamby</strong><br>
+    <em>Undergraduate student, Entomology</em><br>
+    <a href="mailto:hamby.52@buckeyemail.osu.edu">hamby.52@buckeyemail.osu.edu</a>
   </div>
+</div>
 
 </div>
