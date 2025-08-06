@@ -48,7 +48,6 @@ strong.your-name {
   flex-wrap: nowrap !important;
   gap: 10px;
 }
-
 /* Prevent icons from wrapping in mobile view */
 .navbar .navbar-nav.navbar-right > li {
   white-space: nowrap;
