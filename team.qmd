@@ -27,8 +27,7 @@ format:
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px;">
 
-<!-- Student 1 -->
-<div style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
   <img src="assets/images/amponsah-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
   <div>
     <strong>Grace Amponsah</strong><br>
@@ -37,8 +36,7 @@ format:
   </div>
 </div>
 
-<!-- Student 2 -->
-<div style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
   <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
   <div>
     <strong>Abdulafees Hamzat</strong><br>
@@ -47,8 +45,7 @@ format:
   </div>
 </div>
 
-<!-- Student 3 -->
-<div style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+<div class="student-card" style"flex: 1 1 45%; display: flex; align-items: flex-start;">
   <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
   <div>
     <strong>Nina Brown</strong><br>
@@ -57,8 +54,7 @@ format:
   </div>
 </div>
 
-<!-- Student 4 -->
-<div style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
   <img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
   <div>
     <strong>Ashely Hamby</strong><br>
