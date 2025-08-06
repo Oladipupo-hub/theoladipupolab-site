@@ -41,3 +41,15 @@ strong.your-name {
 .underline {
   text-decoration: underline;
 }
+.navbar .navbar-nav.navbar-right {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center;
+  flex-wrap: nowrap !important;
+  gap: 10px;
+}
+
+/* Prevent icons from wrapping in mobile view */
+.navbar .navbar-nav.navbar-right > li {
+  white-space: nowrap;
+}
