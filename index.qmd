@@ -4,6 +4,7 @@ format:
   html:
     css: assets/css/styles.css
 ---
+
 <div style="display: flex; align-items: center; gap: 30px;">
 
 <!-- Left Column: Image -->
@@ -12,9 +13,13 @@ format:
 </div>
 
 <!-- Right Column: Text -->
-<div style="flex: 1;">
+<div style="flex: 2;">
   We are broadly interested in developing sustainable urban pest management solutions through interdisciplinary research. Our lab uses diverse approaches – biotechnology, biochemistry, and bioinformatics – to understand host-microbe interactions and the functional roles of microbiomes in urban insect pests. Additionally, we integrate socioeconomic research on pest prevalence to create comprehensive, eco-friendly management strategies.
 </div>
+
+</div>
+
+---
 
 ## Some areas of focus are:
 - Investigating socioeconomic drivers of urban pest prevalence
