@@ -9,12 +9,12 @@ website:
         href: index.qmd
       - text: Research
         href: research.qmd
+      - text: Publications
+        href: publications.qmd
       - text: Teaching
         href: teaching.qmd
       - text: Team
         href: team.qmd
-      - text: Publications
-        href: publications.qmd
       - text: For Lab Members
         href: for-lab-members.qmd
       - text: Contact
