@@ -5,7 +5,7 @@ format:
     css: assets/css/styles.css
 ---
 
-![Urban Entolomogy](assets/images/lab-logo.png)
+![](assets/images/BedBugF.png)
 
 We are broadly interested in developing sustainable urban pest management solutions through interdisciplinary research. Our lab uses diverse approaches – biotechnology, biochemistry, and bioinformatics – to understand host-microbe interactions and the functional roles of microbiomes in urban insect pests. Additionally, we integrate socioeconomic research on pest prevalence to create comprehensive, eco-friendly management strategies
 

@@ -1,6 +1,21 @@
-# Research
+---
+title: "Research"
+format:
+  html:
+    css: assets/css/styles.css
+---
 
-- Investigating socioeconomic drivers of urban pest prevalence
-- Understanding microbiome influence on urban pest life history traits
-- Creating translational tools for real-world applications
-- Developing sustainable pest control strategies
+## Investigating socioeconomic drivers of urban pest prevalence
+![](assets/images/lab-logo.png)
+
+We are building a research program that proves urban pest problems are fundamentally equity problems. Our lab investigates how income disparities, housing conditions, and neighborhood resources drive pest infestations in underserved communities. Using GIS mapping, community surveys, and population genetics, we reveal persistence patterns while examining biological factors that complicate control in resource-limited settings.
+
+## Understanding microbiome influence on urban pest life history traits
+![](assets/images/microbe.png)
+
+## Creating translational tools for real-world applications
+![](assets/images/Translational.png)
+
+
+## Developing sustainable pest control strategies
+![](assets/images/bed_bug_ct.png)
