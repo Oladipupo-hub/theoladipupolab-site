@@ -17,7 +17,7 @@ format:
 
 ## 2023
 
-<span class="pub-number">15.</span> **Oladipupo, S.O.**, Laidoudi, Y., Beckmann, J.F., Hu, X.P., Appel, A.G., 2023. The prevalence of *Wolbachia* in multiple cockroach species and its implication for urban insect management. _J. Econ. Entomol._ xx, 1–10.**Featured in** *[Entomology Today](https://entomologytoday.org/2023/06/15/wolbachia-cockroaches-new-paradigm-urban-pest-management/)*
+<span class="pub-number">15.</span> **Oladipupo, S.O.**, Laidoudi, Y., Beckmann, J.F., Hu, X.P., Appel, A.G., 2023. The prevalence of *Wolbachia* in multiple cockroach species and its implication for urban insect management. _J. Econ. Entomol._ xx, 1–10. **Featured in** *[Entomology Today](https://entomologytoday.org/2023/06/15/wolbachia-cockroaches-new-paradigm-urban-pest-management/)*
 
 <span class="pub-number">14.</span> **Oladipupo, S.O.**, <sup>#</sup>Carroll, J.D., Beckmann, J.F., 2023. Convergent _Aedes_ and _Drosophila_ CidB interactomes suggest cytoplasmic incompatibility targets are conserved. _Insect Biochem. Mol. Bio._ 155, 1–8
 
