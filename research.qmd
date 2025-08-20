@@ -8,7 +8,7 @@ format:
 ## Investigating socioeconomic drivers of urban pest prevalence
 ![](assets/images/lab-logo.png)
 
-We are building a research program that proves urban pest problems are fundamentally equity problems. Our lab investigates how income disparities, housing conditions, and neighborhood resources drive pest infestations in underserved communities. Using GIS mapping, community surveys, and population genetics, we reveal persistence patterns while examining biological factors that complicate control in resource-limited settings.
+We are building a research program that proves urban pest problems are fundamentally equity problems. Our lab investigates how income disparities, housing conditions, and neighborhood resources drive pest infestations in wide variety of lived experiences. Using GIS mapping, community surveys, and population genetics, we reveal persistence patterns while examining biological factors that complicate control in resource-limited settings.
 
 ## Understanding microbiome influence on urban pest life history traits
 ![](assets/images/microbe.png)
