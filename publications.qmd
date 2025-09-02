@@ -1,6 +1,6 @@
 
 ---
-title: "Publications [Google Scholar ](https://scholar.google.com/citations?user=wjO-QiMAAAAJ&hl=en)"
+title: "Publications [Google Scholar ](https://scholar.google.com/citations?hl=en&user=wjO-QiMAAAAJ&view_op=list_works&sortby=pubdate)"
 format:
   html:
     css: assets/css/styles.css
