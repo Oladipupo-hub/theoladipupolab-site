@@ -11,9 +11,11 @@ format:
 
 <span class="pub-number">18.</span> Oswalt, K., **Oladipupo, S.O.**, Mendez, L., Gillespie, J.J., Beckmann, J.F., 2025. Origin of cin: lateral transfer of cytoplasmic incompatibility nuclease operon to *Orientia tsutsugamushi*
 
-<span class="pub-number">17.</span> Senanayaka Mudiyanselage, P., Lindsey, L., **Oladipupo, S.O.**, 2025. Does growing latitude influence soybean seed critical amino acid content? A meta-analysis. _Agric. Environ. Lett._
+## 2025
 
-<span class="pub-number">16.</span> **Oladipupo, S.O.**, Hochstrasser, M., 2025. Deubiquitylases and nucleases in bacterial symbiont-induced cytoplasmic incompatibility. _Biochem. Soc. Transac._
+<span class="pub-number">17.</span> **Oladipupo, S.O.**, Hochstrasser, M., 2025. Deubiquitylases and nucleases in bacterial symbiont-induced cytoplasmic incompatibility. _Biochem. Soc. Transac._
+
+<span class="pub-number">16.</span> Senanayaka Mudiyanselage, P., Lindsey, L., **Oladipupo, S.O.**, 2025. Does growing latitude influence soybean seed critical amino acid content? A meta-analysis. _Agric. Environ. Lett._ 10, e70033
 
 ## 2023
 
