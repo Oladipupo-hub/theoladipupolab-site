@@ -201,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="the-oladipupo-lab-news" class="level2">
 <h2 class="anchored" data-anchor-id="the-oladipupo-lab-news">The Oladipupo Lab News</h2>
 <ul>
-<li><strong>August x, 2025</strong>: Our paper, <em>Deubiquitylases and nucleases in bacterial symbiont-induced cytoplasmic incompatibility</em>, got accepted in <a href="https://portlandpress.com/biochemsoctrans">Biochemical Society Transactions</a></li>
+<li><strong>September 12, 2025</strong>: Our paper, <em>Deubiquitylases and nucleases in bacterial symbiont-induced cytoplasmic incompatibility</em>, got accepted in <a href="https://doi.org/10.1042/BST20253047">Biochemical Society Transactions</a></li>
 <li><strong>July 24, 2025</strong>: Manuscript from meta-analysis class by Prabath Mudiyanselage, <em>Does growing latitude influence soybean seed critical amino acid content? A meta-analysis</em> was accepted in <a href="https://acsess.onlinelibrary.wiley.com/journal/24719625">Agricultural and Environmental Letters</a></li>
 <li>Our featured story, <em>Don’t let bed bugs crash your vacation</em>, was the number one headline for Thursday, July 24, 2025. <a href="https://cfaes.osu.edu/news/articles/don%e2%80%99t-let-bed-bugs-crash-your-vacation-cfaes-tackles-the-threat-in-ohio?category=Headline%20news&amp;utm_source=sfmc&amp;utm_medium=email&amp;utm_campaign=omc_faculty-staff-newsletter_fy26_oncampus-20250724&amp;sfmc_key=0032E00002tKwznQAC">Read more on the CFAES page</a></li>
 <li><strong>June 02, 2025</strong>: Undergraduates, Nina Brown and Ashely Hamby, join the lab to work on <a href="https://ugresearch.osu.edu/research-postings/mapping-inequities-data-driven-approach-understanding-and-combating-bed-bug">Mapping Inequities Seed Grant</a></li>
@@ -301,7 +301,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/Oladipupo-hub\.github\.io\/theoladipupolab-site\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

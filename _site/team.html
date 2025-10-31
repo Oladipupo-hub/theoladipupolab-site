@@ -201,7 +201,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
-<img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
+<img src="assets/images/abdulafees-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
 <div>
 <strong>Abdulafees Hamzat</strong><br> <em>MS student, Entomology</em><br> <a href="mailto:hamzat.6@buckeyemail.osu.edu">hamzat.6@buckeyemail.osu.edu</a>
 </div>
@@ -296,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/Oladipupo-hub\.github\.io\/theoladipupolab-site\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
