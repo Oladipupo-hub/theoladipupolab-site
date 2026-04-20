@@ -93,17 +93,17 @@ format:
 
 <figure style="flex: 1 1 30%; margin: 0;">
   <img src="assets/images/nina-symposium.jpeg" style="width: 100%; border-radius: 8px;">
-  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>Nina Brown presents her Honors thesis at the OSU Undergraduate Research Symposium (April 2026).</em></figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>Nina Brown presents her Honors thesis at the OSU Undergraduate Research Symposium (April 2026)</em></figcaption>
 </figure>
 
 <figure style="flex: 1 1 30%; margin: 0;">
   <img src="assets/images/team-celebration-nina.jpeg" style="width: 100%; border-radius: 8px;">
-  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>The team celebrates Nina's Honors defense.</em></figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>The team celebrates Nina's Honors defense</em></figcaption>
 </figure>
 
 <figure style="flex: 1 1 30%; margin: 0;">
   <img src="assets/images/end-of-year-meeting-2025.jpeg" style="width: 100%; border-radius: 8px;">
-  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>End-of-year lab meeting, 2025.</em></figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>End-of-year lab meeting, 2025</em></figcaption>
 </figure>
 
 </div>
