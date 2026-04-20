@@ -219,6 +219,46 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
+</section>
+<section id="alumni" class="level1">
+<h1>Alumni</h1>
+<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+<img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
+<div>
+<strong>Damilola Gbore</strong><br> <em>Visiting Scholar (Spring 2025)</em><br> Advanced to doctoral study at the University of Cambridge
+</div>
+</div>
+<div class="student-card" style="flex: 1 1 45%; display: flex; align-items: flex-start;">
+<img src="assets/images/bedbug-icon.png" width="100px" style="margin-right: 15px; border-radius: 8px;">
+<div>
+<strong>Thomas Salawu</strong><br> <em>International Research Mentee (Spring–Fall 2025)</em><br> M.Tech, Federal University of Technology, Akure (defended August 2025)
+</div>
+</div>
+</div>
+</section>
+<section id="lab-life" class="level1">
+<h1>Lab life</h1>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<figure style="flex: 1 1 30%; margin: 0;" class="figure">
+<img src="assets/images/nina-symposium.jpeg" style="width: 100%; border-radius: 8px;" class="figure-img">
+<figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px;">
+<em>Nina Brown presents her Honors thesis at the OSU Undergraduate Research Symposium (March 2026).</em>
+</figcaption>
+</figure>
+<figure style="flex: 1 1 30%; margin: 0;" class="figure">
+<img src="assets/images/team-celebration-nina.jpeg" style="width: 100%; border-radius: 8px;" class="figure-img">
+<figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px;">
+<em>The team celebrates Nina’s Honors defense.</em>
+</figcaption>
+</figure>
+<figure style="flex: 1 1 30%; margin: 0;" class="figure">
+<img src="assets/images/end-of-year-meeting-2025.jpeg" style="width: 100%; border-radius: 8px;" class="figure-img">
+<figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px;">
+<em>End-of-year lab meeting, 2025.</em>
+</figcaption>
+</figure>
+</div>
 
 
 </section>
@@ -296,7 +336,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Oladipupo-hub\.github\.io\/theoladipupolab-site\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
