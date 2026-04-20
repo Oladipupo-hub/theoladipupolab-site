@@ -14,8 +14,8 @@ website:
         href: publications.qmd
       - text: Teaching
         href: teaching.qmd
-        text: Extension & Outreach
-      - href: extension-and-outreach.qmd
+      - text: Extension & Outreach
+        href: extension-and-outreach.qmd
       - text: Team
         href: team.qmd
       - text: For Lab Members
