@@ -93,7 +93,7 @@ format:
 
 <figure style="flex: 1 1 30%; margin: 0;">
   <img src="assets/images/nina-symposium.jpg" style="width: 100%; border-radius: 8px;">
-  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>Nina Brown presents her Honors thesis at the OSU Undergraduate Research Symposium (March 2026).</em></figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 8px; font-weight: bold;"><em>Nina Brown presents her Honors thesis at the OSU Undergraduate Research Symposium (April 2026).</em></figcaption>
 </figure>
 
 <figure style="flex: 1 1 30%; margin: 0;">

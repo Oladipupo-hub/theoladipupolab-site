@@ -4,7 +4,7 @@ project:
 website:
   title: ""     # Hide text title since we're using an image
   navbar:
-    logo: assets/images/logo.png  # ✅ Add your logo image path here
+    logo: assets/images/TheOladipupoLabLogo.png  # ✅ Add your logo image path here
     left:
       - text: Home
         href: index.qmd
@@ -14,6 +14,8 @@ website:
         href: publications.qmd
       - text: Teaching
         href: teaching.qmd
+        text: Extension & Outreach
+      - href: extension-and-outreach.qmd
       - text: Team
         href: team.qmd
       - text: For Lab Members

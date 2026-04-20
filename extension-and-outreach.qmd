@@ -1,0 +1,28 @@
+---
+title: "Extension & Outreach"
+format:
+  html:
+    css: assets/css/styles.css
+---
+
+Ohio carries more cities in the national top-50 for bed bug infestations than any other state. Cincinnati, Columbus, and Cleveland all rank in the top twenty. Our extension and outreach work exists to close the gap between what we learn in the lab and what Ohioans, pest management professionals, and housing stakeholders need in order to act.
+
+## Publications for the public
+
+- **[_The Bed Bug Threat_](https://ohioline.osu.edu/factsheet/ent-0103)** — Ohioline Fact Sheet ENT-0103 (2025). With **D. Short** and **E. McDermott**.
+- **_Bed Bug Look-Alikes_** — Ohioline Fact Sheet (2026). A side-by-side visual guide to help Ohioans distinguish bed bugs from common confusers, co-authored with **Abdulafees Hamzat** and **Grace Amponsah**.
+
+## Talks and training
+
+We regularly deliver continuing-education content to licensed pest management professionals — through the **Ohio Pesticide Safety Education Program**, the **Ohio Pest Management Association**, and the **Ohio Mosquito & Vector Control Association** — and to community and housing organizations across Ohio. Topics span bed bug management, cockroach control, and the biology driving urban pest resilience.
+
+To invite us to speak, email **[Seun](mailto:Oladipupo.7@osu.edu)** with your date, audience, and preferred format.
+
+## In the press
+
+- _Don't let bed bugs crash your vacation_, [CFAES News](https://cfaes.osu.edu/news/articles/don%e2%80%99t-let-bed-bugs-crash-your-vacation-cfaes-tackles-the-threat-in-ohio) (July 2025)
+- How to (wisely! safely!) pick out free furniture off the curb, [The Washington Post](https://www.washingtonpost.com/home/2025/05/20/how-to-get-furniture-off-the-curb/) (May 2025)
+
+## The Crawl Space — launching Summer 2026
+
+We are producing a narrative-driven podcast, _The Crawl Space_, for audiences that no fact sheet or recertification webinar will reach — the renter who notices something in the seam of her mattress, the parent who finds a bug on their child's backpack. Every episode ships with a full transcript. Launch and distribution details will be posted here.
