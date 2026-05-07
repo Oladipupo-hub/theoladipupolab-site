@@ -4,7 +4,7 @@ project:
 website:
   title: ""     # Hide text title since we're using an image
   navbar:
-    logo: assets/images/TheOladipupoLabLogo.png  # ✅ Add your logo image path here
+    logo: assets/images/TheOladipupoLabLogoR.png  # ✅ Add your logo image path here
     left:
       - text: Home
         href: index.qmd
